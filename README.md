@@ -60,7 +60,7 @@ Checkout my [Portfolio](https://lupita-dey.vercel.app/) 🚀
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lupitadey12)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lupita-dey/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](lupitadey12@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](lups12august@gmail.com)
 
 
 ⭐️ From [lupitadey](https://github.com/lupitadey12)
